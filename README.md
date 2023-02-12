@@ -1,5 +1,5 @@
 
-# Email Validation Check by JavaScript
+# The iframe element
 ---
 
 
@@ -7,22 +7,11 @@
      alt="table"/>
 
 
+<img src="form.png"
+     alt="form"/>
 
 
-# You have entered an invalid email address
----
 
-
-<img src="check_01.png"
-     alt="Email Validation Check by JavaScript"/>
-
-
-     # You have entered an valid email address
----
-
-
-<img src="check_02.png"
-     alt="Email Validation Check by JavaScript"/>
 
 
 
